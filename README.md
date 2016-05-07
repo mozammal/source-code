@@ -1,4 +1,4 @@
-simply build the applicationn using  the following steps:
+simply build the application using  the following steps:
 
 
 1.  gradlew build 
